@@ -1,0 +1,6 @@
+D:\ics-training\csharp\Assignment2\program3a\program3a\bin\Debug\program3a.exe.config
+D:\ics-training\csharp\Assignment2\program3a\program3a\bin\Debug\program3a.exe
+D:\ics-training\csharp\Assignment2\program3a\program3a\bin\Debug\program3a.pdb
+D:\ics-training\csharp\Assignment2\program3a\program3a\obj\Debug\program3a.csproj.CoreCompileInputs.cache
+D:\ics-training\csharp\Assignment2\program3a\program3a\obj\Debug\program3a.exe
+D:\ics-training\csharp\Assignment2\program3a\program3a\obj\Debug\program3a.pdb
